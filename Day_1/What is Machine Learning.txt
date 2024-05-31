@@ -1,0 +1,11 @@
+Ques. What is Machine Learning?
+Ans. It is a field of Computer Science that uses statistical techniques to give computer an ability to "learn" with data, without being explicitly programmed.
+
+It can be useful when
+- you are unable to cover all the scenarios / edge cases
+- you want to classify things with alot of variations
+- you want to do find a hidden info out of a data (Data Mining)
+
+
+
+- ML has been there for past 40-50 years but it got hyped up after 2010.
