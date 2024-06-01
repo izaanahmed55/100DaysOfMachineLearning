@@ -1,0 +1,17 @@
+***Artificial Intelligence (AI)
+- Putting Intelligence into a Machine
+- Initially expert systems like Chess game were considered as the future of AI, later the concept failed as there were flaws in it as it could not tackle a tricky/fuzzy logic. That's when Machine Learning was introduced.
+ 
+**Machine Learning (ML)
+- We never do explicit programming for our problems/scenarios.
+- Rules will be generated on the basis of Data
+- Learning Pattern with time
+
+*Deep Learning (DL)
+- It follows the same process/flow as Machine Learning
+- Different Algorithms from ML
+- Inspired by Biology
+- Inspired by Human Brain, although doesn't work exactly like that
+
+Q. What brought Deep Learning?
+A. In Machine Learning, we need to specify feature of an indivisual however Deep Learning recognises them itself. Deep Learning works layer by layer and goes deeper. Machine learning's accuracy increases to a certain point when provided with data and gradually becomes stable. However, Deep learning's accuracy keeps increasing with Data.
