@@ -1,0 +1,24 @@
+==========================
+TYPES OF MACHINE LEARNING
+==========================
+
+1. Supervised Machine Learning
+- When we have input and outputs and we need to recognise relation between them so that we can predict output for a new input. That's what Supervised Learning is!
+- It can further be divide into two parts
+  * Regression (When output is usually Numerical e.g. age, cgpa etc.)
+  * Classification (When output is usually Categorical e.g. gender, spam/not spam, nationality etc.)
+
+2. Unsupervised Machine Learning
+- When we only have inputs and eventually predicts output over that using 
+  * Clustering (Plot the data on a graph and put the similar ones into groups)
+  * Dimentionality Reduction (Combining the relatable columns to reduce dimensions/input columns and this is also known as Feature Extraction)
+  * Anomaly Detection (Detecting Outliers and eventually omitting them)
+  * Association Rule Learning (Finding relation in between two data columns and then keeping them together e.g. Products setting in a supermarket)
+
+3. Semi-Supervised Machine Learning
+- We label just a few data and the remaining data gets labelled all by itself.
+
+4. Reinforcement Machine Learning
+- We donot provide any data initially.
+- Learns by experience like Human e.g. Self Driving Car
+- Observes and Learn eventually with time and experiences
