@@ -1,0 +1,24 @@
+------------------------------------------
+BATCH (OFFLINE) vs ONLINE MACHINE LEARNING
+------------------------------------------
+
+
+BATCH LEARNING (Offline)
+--------------------------
+- Machine learns over a lot of whole data and not in chunks.
+- It is done on our local systems (Development Env)
+- Once algorithm is tested and trained, we finally put it on Production Server
+
+
+THE PROBLEM WITH BATCH LEARNING
+---------------------------------
+- The model is static
+- Learnt once and predicts on the basis of that
+- You need to do it in a circular fashion (retrain) so that it can be trained on new data too
+
+
+DISADVANTAGES OF BATCH MACHINE LEARNING
+-----------------------------------------
+- Lots of Data (if data is BIG DATA)
+- Hardware Limitation (Internet)
+- Avalaibility 
